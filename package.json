@@ -1,0 +1,27 @@
+{
+  "name": "bolt-boiling-crab-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@supabase/supabase-js": "^2.0.0",
+    "clsx": "^2.0.0",
+    "qrcode": "^1.5.1",
+    "papaparse": "^5.4.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.0",
+    "@types/node": "^20.2.5",
+    "@types/react": "^18.0.27",
+    "tailwindcss": "^3.3.2",
+    "postcss": "^8.4.21",
+    "autoprefixer": "^10.4.13"
+  }
+}
